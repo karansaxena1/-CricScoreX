@@ -76,7 +76,7 @@ narwhals==1.25.0
 nest-asyncio==1.6.0
 networkx==3.4.2
 nltk==3.9.1
-numpy==2.2.0
+numpy
 orjson==3.10.12
 packaging==24.2
 pandas==2.2.3
